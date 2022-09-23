@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Abdul Hadi Jafari</h1>
-<h3 align="center">A passionate Full-Stack developer in development</h3>
+<h3 align="center">Full-Stack web developer</h3>
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
