@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hadi111jafari&label=Profile%20views&color=0e75b6&style=flat" alt="Hadi111jafari" /> </p>
 
-- 🌱 I’m currently learning **React, Redux, Ruby and Ruby on Rails**
+- 🌱 I’m currently learning **Next, solving challenges and mastering problem solving**
 
 - 📫 How to reach me **abdulhadijafari2015@gmail.com**
 
