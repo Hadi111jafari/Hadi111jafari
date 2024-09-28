@@ -8,12 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Hadi111jafari&label=Profile%20views&color=0e75b6&style=flat" alt="Hadi111jafari" /> </p>
 
-- 🌱 I’m currently learning **Next.js, solving challenges, and mastering problem-solving**
+- 🌱 I’m currently working at subconscious.ai.
 - 📫 How to reach me **abdulhadijafari2015@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/HadiJaf62814146" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="HadiJaf62814146" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/abdul-hadi-jafari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdul-hadi-jafari" height="30" width="40" /></a>
 </p>
 
